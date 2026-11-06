@@ -1,0 +1,9 @@
+name: bug-hunter
+version: 1.0.0
+description: "Offline, deterministischer Python-Defekt-Scanner als Hermes-Plugin: 14 AST-Regeln mit CWE-IDs, 18 Root-Cause-Klassen, SARIF 2.1.0. Read-only, ohne Netzwerk, ohne LLM, ohne Abhängigkeiten."
+author: "nessos666"
+license: MIT
+homepage: https://github.com/nessos666/bug-hunter
+tags: [security, static-analysis, code-quality, sarif, cwe, offline, no-llm]
+provides_tools:
+  - bug_scan
