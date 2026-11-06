@@ -5,7 +5,7 @@ import hashlib
 from dataclasses import dataclass, asdict
 from typing import Any
 
-VERSION = "4.0.0"
+VERSION = "4.0.2"
 MAX_DEFAULT_BYTES = 2_000_000
 DEFAULT_EXCLUDES = (".git", ".hg", ".svn", ".venv", "venv", "node_modules", "__pycache__", ".mypy_cache", ".pytest_cache", "dist", "build")
 SEVERITY = {"ERROR": 3, "WARNING": 2, "NOTE": 1}

@@ -103,4 +103,4 @@ nie ausgeführt**.
 ## Lizenz
 
 MIT — siehe [LICENSE](LICENSE). Der Scanner stammt aus
-https://github.com/nessos666/bug-hunter (Version 4.0.0).
+https://github.com/nessos666/bug-hunter (Version 4.0.2).
